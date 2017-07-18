@@ -1,0 +1,27 @@
+body {
+  padding: 5px;
+  margin: 5px;
+  background-color: #f4a142;
+}
+
+.spaceholder {
+  min-height: 20px;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.container {
+  padding: 50px;
+}
+
+.row{
+  margin-top: 10px;
+  margin-bottom: 10px
+}
