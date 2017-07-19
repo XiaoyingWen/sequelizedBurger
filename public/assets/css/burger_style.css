@@ -25,3 +25,10 @@ body {
   margin-top: 10px;
   margin-bottom: 10px
 }
+
+.item-label{
+  padding-left: 20%;
+  text-align:left;
+  font-weight:bold;
+  background-color: #FCE22D;
+}
